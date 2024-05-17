@@ -1,0 +1,83 @@
+body
+{
+    background: url(midia/bg.gif);
+    background-size:cover;
+}
+#pswhtml
+{
+    background: url(midia/psw.jpg);
+    background-size:cover;
+}
+#botwhtml
+{
+    background: url(midia/botwhtml.jfif);
+    background-size:cover;
+}
+#smohtml
+{
+    background: url(midia/smohtml.avif);
+    background-size:cover;
+}
+.enredo
+{
+    border: solid 2px darkmagenta;
+    border-radius: 5px;
+    background-color: antiquewhite;
+    width: 900px;
+}
+.t
+{
+    border-radius: 10px;
+    border: solid 3px;
+    border-color: indigo;
+    text-align: center;
+    width: fit-content;
+    height: fit-content;
+    background-color: black;
+}
+.st
+{
+    border-radius: 5px;
+    text-align: center;
+    width: fit-content;
+    height: fit-content;
+    background-color: crimson;
+}
+#botw
+{
+    align-self: center;
+    border-radius: 5px;
+    text-align: center;
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+    font: bold;
+    color: white;
+    width: 299px;
+    height: 168px;
+    border: 1.5px solid red;
+    background: url(midia/zbotw.jpg);
+}
+#smo
+{
+    border-radius: 5px;
+    text-align: center;
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+    font: bold;
+    color: white;
+    width: 299px;
+    height: 168px;
+    border: 1.5px solid red;
+    background: url(midia/smo.jpg);
+}
+#psw
+{
+    border-radius: 5px;
+    text-align: center;
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+    font: bold;
+    color: white;
+    border: 1.5px solid red;
+    background: url(midia/psw.jpg);
+    width: 299px;
+    height: 168px;
+    background-size: contain;
+}
